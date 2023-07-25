@@ -1,4 +1,4 @@
-***Test***
+***Train***
 Topic	Topic ID	#files
 ***************************************************************************
 Chinh tri Xa hoi	XH	5219
@@ -14,7 +14,7 @@ Vi tinh		VT		2481
 
 Total				33759
 
-***Train***
+***Test***
 Chinh tri Xa hoi	XH	7567
 Doi song	DS		2036
 Khoa hoc	KH		2096
